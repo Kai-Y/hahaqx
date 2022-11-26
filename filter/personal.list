@@ -1,0 +1,12 @@
+# 全球加速
+
+host, feeds.fireside.fm, 全球加速
+host-suffix, hostloc.com, 全球加速
+host-suffix, 91ai.net, 全球加速
+host-suffix, moon.fm, 全球加速
+host-keyword, acast.com, 全球加速
+
+# reject
+
+host, img.admobile.top, reject
+host, images.pinduoduo.com, reject
